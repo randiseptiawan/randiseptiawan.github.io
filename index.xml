@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://randiseptiawan.github.io/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>no</language><atom:link href="https://randiseptiawan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://randiseptiawan.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://randiseptiawan.github.io/about/</guid>
+      
+        <description>Halo Saya Randi Septiawan. Saya lulusan Fisika Universitas Negeri Jakarta, walaupun lulusan fisika saya tertarik di dunia pemrograman karena saat kuliah saya juga mengambil peminatan komputasi. Pemrograman yg pernah saya geluti dibidang Data Science dan Back End Development. Dibuatnya website ini diharapkan dapat membantu saya meningkatkan kemampuan serta mengembangkan diri saya menjadi lebih baik. Terima Kasih telah berkunjung.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
